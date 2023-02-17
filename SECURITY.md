@@ -10,4 +10,4 @@ Instructions for reporting a vulnerability can be found on the
 Information about supported Metal3 versions can be found on the
 [Supported release versions] page on the Metal3 website.
 
-[Supported release versions]: https://metal3io.netlify.app/version_support.html
+[Supported release versions]: https://book.metal3.io/version_support.html
